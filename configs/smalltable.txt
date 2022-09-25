@@ -14,5 +14,5 @@ colmap_depth = True
 depth_loss = True
 depth_lambda = 0.1
 i_testset = 5000
-i_video = 10000
-N_iters = 50000
+i_video = 5000
+N_iters = 20000
